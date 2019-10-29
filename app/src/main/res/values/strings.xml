@@ -5,4 +5,7 @@
     <string name="teamB_title_string">Team B</string>
     <string name="increase_string">+</string>
     <string name="decrease_string">-</string>
+    <string name="incBy1">increment by 1</string>
+    <string name="incBy2">increment by 2</string>
+    <string name="incBy3">increment by 3</string>
 </resources>
